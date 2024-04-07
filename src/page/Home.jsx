@@ -36,7 +36,7 @@ function Home() {
             Diyor
           </h2>
           <h3 className="sm:text-xl md:text-2xl font-[Ubuntu] opacity-75">
-            Front End Devoloper
+            FrontEnd Devoloper
           </h3>
           <div className="flex items-start gap-3">
             <a
